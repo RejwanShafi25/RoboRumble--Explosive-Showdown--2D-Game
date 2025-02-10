@@ -14,7 +14,7 @@ Lab Faculty:  [Mirza Abdullah Al Noman [MAO]](https://www.linkedin.com/in/mirza-
 
 ## Game Features
 
-- **Graphics and Interface**: Utilizes OpenGL for rendering, creating an engaging 2D/3D environment. The game window is set at 1000x700 pixels.
+- **Graphics and Interface**: Utilizes OpenGL for rendering, creating an engaging 2D environment. The game window is set at 1000x700 pixels.
 - **Multiple Bullet Types**: There are different types of bullet. After every fireshoot a random bullet from thedifferent bullet types: Simple, Explosive, Sniper, and Burst, each with unique behaviors is assigned to a player.
 - **Interactive Terrain**: The terrain interacts with the gameplay, changing over time due to game actions.
 - **Player Turns**: The game employs a turn-based system where players alternate turns to attack.
